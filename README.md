@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crisdevcode&label=Profile%20views&color=0e75b6&style=flat" alt="crisdevcode" /> </p>
 
-- 🔭 I’m currently working on **Mercadolibre Clone**
-
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **ungcrisfit@gmail.com**
